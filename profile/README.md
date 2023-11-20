@@ -1,5 +1,4 @@
-[![unicoredevelop GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=unicoredevelop)](https://github.com/unicoredevelop/github-readme-stats)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&orgs=acme,evilcorp,fsociety)
 
 ## 👨‍💻 Programming Languages
 <p>
