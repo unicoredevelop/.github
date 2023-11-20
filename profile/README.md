@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicoredevelop)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 👨‍💻 Programming Languages
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=Java&logoColor=white">
