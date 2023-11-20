@@ -1,5 +1,4 @@
-## 현황
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unicoredevelop&theme=dayfox&border_radius=20&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
 
 ## 👨‍💻 Programming Languages
 <p>
