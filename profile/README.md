@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=unicore&fontSize=90)
-
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JS&logoColor=white" />
+## 👨‍💻 Programming Languages
+<p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white">
+</p>
