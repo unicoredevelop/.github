@@ -1,5 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&orgs=acme,evilcorp,fsociety)
-
 ## 👨‍💻 Programming Languages
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=Java&logoColor=white">
